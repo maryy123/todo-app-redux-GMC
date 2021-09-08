@@ -1,0 +1,22 @@
+.buttonFilter {
+  width: 100%;
+  top: 25%;
+  left: 2%;
+}
+.buttonFilter button {
+  border-radius: 7px;
+  font-size: small;
+  padding: 1%;
+  padding-right: 12%;
+  padding-left: 2%;
+  align-self: center;
+  width: 15%;
+  color: #851e3e;
+  border-color: #851e3e;
+  border-width: thin;
+  font-weight: bold;
+}
+
+.buttonFilter button:hover {
+  opacity: 0.9;
+}

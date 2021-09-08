@@ -1,0 +1,44 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 3%;
+  background-color: white;
+  border-radius: 20px;
+  padding: 1%;
+}
+
+.text {
+  width: 60%;
+  font-size: large;
+  margin-right: 7%;
+  margin-left: 3%;
+  font-size: 20px;
+  color: #851e3e;
+  margin-top: 0.5%;
+  text-align: start;
+}
+
+.buttonSection {
+  width: 40%;
+}
+
+.buttonSection button {
+  width: 27%;
+  height: 30px;
+  text-align: center;
+  font-size: 10px;
+  margin-right: 5%;
+  color: #851e3e;
+  background-color: white;
+  border-color: #851e3e;
+  border-width: thin;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.buttonSection button:hover {
+  color: white;
+  background-color: #851e3e;
+  border-color: #851e3e;
+}
